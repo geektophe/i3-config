@@ -176,10 +176,10 @@ bar {
         #background #2B5938
         background #072C21
 
-        focused_workspace  #50711Fee #50711Fee #000000
+        focused_workspace  #50711F #50711F #000000
         active_workspace   #333333 #333333 #ffffff
         inactive_workspace #333333 #333333 #ffffff
-        urgent_workspace   #FF6B0175 #FF6B0175 #ffffff
+        urgent_workspace   #FF6B01 #FF6B01 #ffffff
     }
 }
 
